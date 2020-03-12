@@ -1,0 +1,13 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdftex 2020.3.10)  10 MAR 2020 16:05
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**.\perceptron_assignment.tex
+(c:/texlive/2019/texmf-dist/tex/latex/tools/q.tex File ignored
+)
+! Emergency stop.
+<*> .\perceptron_assignment.tex
+                               
+*** (job aborted, no legal \end found)
+
+!  ==> Fatal error occurred, no output PDF file produced!
